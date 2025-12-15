@@ -1,6 +1,6 @@
 "# notion-extension" 
 
-
+for increasing the text size of notion content
 
 
 
