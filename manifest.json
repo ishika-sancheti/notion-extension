@@ -1,0 +1,13 @@
+{
+    "name": "Notion Text Extension",
+    "description": "To make the notion text size bigger.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": ["https://www.notion.so/*"],
+            "js": ["content.js"],
+            "css": ["styles.css"]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+.notion-page-content {
+    font-size: 20px !important;
+    line-height: 1.4 !important;
+}
+
+.notion-text-block {
+    font-size:  20px !important;
+}
+
+.notion-header-block {
+    font-size: 28px !important;
+}
+
+.notion-sub-header-block {
+    font-size: 22px !important;
+}
+
+.notion-sub-sub-header-block {
+    font-size: 20px !important;
+}
+
+.notion-bulleted_list-block, 
+.notion-numbered_list-block {
+    font-size: 20px !important;
+}
